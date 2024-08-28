@@ -1,0 +1,12 @@
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Domain\bin\Debug\net7.0\CinemaBooking.Domain.deps.json
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Domain\bin\Debug\net7.0\CinemaBooking.Domain.dll
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Domain\bin\Debug\net7.0\CinemaBooking.Domain.pdb
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Domain\obj\Debug\net7.0\CinemaBooking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Domain\obj\Debug\net7.0\CinemaBooking.Domain.AssemblyInfoInputs.cache
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Domain\obj\Debug\net7.0\CinemaBooking.Domain.AssemblyInfo.cs
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Domain\obj\Debug\net7.0\CinemaBooking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Domain\obj\Debug\net7.0\CinemaBooking.Domain.sourcelink.json
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Domain\obj\Debug\net7.0\CinemaBooking.Domain.dll
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Domain\obj\Debug\net7.0\refint\CinemaBooking.Domain.dll
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Domain\obj\Debug\net7.0\CinemaBooking.Domain.pdb
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Domain\obj\Debug\net7.0\ref\CinemaBooking.Domain.dll

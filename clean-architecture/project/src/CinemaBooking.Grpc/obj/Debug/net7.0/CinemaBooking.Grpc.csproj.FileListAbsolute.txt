@@ -1,0 +1,16 @@
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Grpc\bin\Debug\net7.0\CinemaBooking.Grpc.deps.json
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Grpc\bin\Debug\net7.0\CinemaBooking.Grpc.dll
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Grpc\bin\Debug\net7.0\CinemaBooking.Grpc.pdb
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Grpc\bin\Debug\net7.0\CinemaBooking.Domain.dll
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Grpc\bin\Debug\net7.0\CinemaBooking.Domain.pdb
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Grpc\obj\Debug\net7.0\CinemaBooking.Grpc.csproj.AssemblyReference.cache
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Grpc\obj\Debug\net7.0\CinemaBooking.Grpc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Grpc\obj\Debug\net7.0\CinemaBooking.Grpc.AssemblyInfoInputs.cache
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Grpc\obj\Debug\net7.0\CinemaBooking.Grpc.AssemblyInfo.cs
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Grpc\obj\Debug\net7.0\CinemaBooking.Grpc.csproj.CoreCompileInputs.cache
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Grpc\obj\Debug\net7.0\CinemaBooking.Grpc.sourcelink.json
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Grpc\obj\Debug\net7.0\CinemaBo.4A7CBFE3.Up2Date
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Grpc\obj\Debug\net7.0\CinemaBooking.Grpc.dll
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Grpc\obj\Debug\net7.0\refint\CinemaBooking.Grpc.dll
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Grpc\obj\Debug\net7.0\CinemaBooking.Grpc.pdb
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Grpc\obj\Debug\net7.0\ref\CinemaBooking.Grpc.dll

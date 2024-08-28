@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "p6rQWsy1pG3c+wWpzXtS4ilHXwwhm5s7WUkiq926Z469F48XF4FGIDfZ/MWAfhTx9kWaf3JCLj+/7NFNZcmE6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gusev\\Desktop\\habr-posts\\clean-architecture\\project\\src\\CinemaBooking.Grpc\\CinemaBooking.Grpc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusev\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",
+    "C:\\Users\\gusev\\.nuget\\packages\\grpc.core.api\\2.59.0\\grpc.core.api.2.59.0.nupkg.sha512",
+    "C:\\Users\\gusev\\.nuget\\packages\\grpc.net.common\\2.59.0\\grpc.net.common.2.59.0.nupkg.sha512",
+    "C:\\Users\\gusev\\.nuget\\packages\\grpc.tools\\2.60.0\\grpc.tools.2.60.0.nupkg.sha512"
+  ],
+  "logs": []
+}

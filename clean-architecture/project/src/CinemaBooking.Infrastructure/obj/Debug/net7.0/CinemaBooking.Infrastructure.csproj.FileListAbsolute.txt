@@ -1,0 +1,16 @@
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Infrastructure\bin\Debug\net7.0\CinemaBooking.Infrastructure.deps.json
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Infrastructure\bin\Debug\net7.0\CinemaBooking.Infrastructure.dll
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Infrastructure\bin\Debug\net7.0\CinemaBooking.Infrastructure.pdb
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Infrastructure\bin\Debug\net7.0\CinemaBooking.Domain.dll
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Infrastructure\bin\Debug\net7.0\CinemaBooking.Domain.pdb
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Infrastructure\obj\Debug\net7.0\CinemaBooking.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Infrastructure\obj\Debug\net7.0\CinemaBooking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Infrastructure\obj\Debug\net7.0\CinemaBooking.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Infrastructure\obj\Debug\net7.0\CinemaBooking.Infrastructure.AssemblyInfo.cs
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Infrastructure\obj\Debug\net7.0\CinemaBooking.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Infrastructure\obj\Debug\net7.0\CinemaBooking.Infrastructure.sourcelink.json
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Infrastructure\obj\Debug\net7.0\CinemaBo.9CBCD067.Up2Date
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Infrastructure\obj\Debug\net7.0\CinemaBooking.Infrastructure.dll
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Infrastructure\obj\Debug\net7.0\refint\CinemaBooking.Infrastructure.dll
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Infrastructure\obj\Debug\net7.0\CinemaBooking.Infrastructure.pdb
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Infrastructure\obj\Debug\net7.0\ref\CinemaBooking.Infrastructure.dll

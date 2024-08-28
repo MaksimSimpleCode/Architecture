@@ -1,0 +1,16 @@
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Services\bin\Debug\net7.0\CinemaBooking.Services.deps.json
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Services\bin\Debug\net7.0\CinemaBooking.Services.dll
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Services\bin\Debug\net7.0\CinemaBooking.Services.pdb
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Services\bin\Debug\net7.0\CinemaBooking.Domain.dll
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Services\bin\Debug\net7.0\CinemaBooking.Domain.pdb
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Services\obj\Debug\net7.0\CinemaBooking.Services.csproj.AssemblyReference.cache
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Services\obj\Debug\net7.0\CinemaBooking.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Services\obj\Debug\net7.0\CinemaBooking.Services.AssemblyInfoInputs.cache
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Services\obj\Debug\net7.0\CinemaBooking.Services.AssemblyInfo.cs
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Services\obj\Debug\net7.0\CinemaBooking.Services.csproj.CoreCompileInputs.cache
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Services\obj\Debug\net7.0\CinemaBooking.Services.sourcelink.json
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Services\obj\Debug\net7.0\CinemaBo.70DC0CCD.Up2Date
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Services\obj\Debug\net7.0\CinemaBooking.Services.dll
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Services\obj\Debug\net7.0\refint\CinemaBooking.Services.dll
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Services\obj\Debug\net7.0\CinemaBooking.Services.pdb
+C:\Users\gusev\Desktop\habr-posts\clean-architecture\project\src\CinemaBooking.Services\obj\Debug\net7.0\ref\CinemaBooking.Services.dll

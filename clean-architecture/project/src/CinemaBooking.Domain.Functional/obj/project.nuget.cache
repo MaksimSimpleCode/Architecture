@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SECyQzkNwW+tP6bKbvhLu3bOo0dwAUIbqnFRCohWRMtlYusqyFzahYq+MyqBORXqCZmIz4ynQMh2NYkKLO+/7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gusev\\Desktop\\habr-posts\\clean-architecture\\project\\src\\CinemaBooking.Domain.Functional\\CinemaBooking.Domain.Functional.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusev\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
